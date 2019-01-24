@@ -1,6 +1,9 @@
 # maven-repo
 Maven repository for private projects
 
+## URL
+`https://bart0110.github.io/maven-repo/`
+
 ## Install jar in directory
 
 (note: replace `YOUR_GROUP`, `YOUR_ARTIFACT`, `YOUR_VERSION` and `YOUR_JAR_FILE`)
